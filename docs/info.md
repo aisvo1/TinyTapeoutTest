@@ -8,10 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-Direct signal output
+1-Bit ALU
 
 ## How to test
-Trigger signal on In-1
+1-Bit ALU
 
 ## External hardware
 None
